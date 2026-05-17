@@ -1,0 +1,92 @@
+# תאילנד בקצב אחר — Generative Engine Optimization Map
+
+> A personal travel blog and guided tour service called 'Thailand at a Different Pace', focused on presenting Thailand and Laos in a calm, authentic, and unhurried way. The site is built around the owner's personal travel posts, curated itineraries, and honest recommendations. It specializes in off-the-beaten-path experiences in the Isan region of Thailand and Laos, and includes a community space for visitor comments. The brand's identity is relaxed, personal, and experiential — the antithesis of rushed tourist culture.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מגלים את תאילנד ולאוס מעבר לתיירות ההמונית. פוסטים אישיים, מסלולים מוכוונים ועצות כנות לחוויה אותנטית. זו לא עוד חברת תיירות — זה מסע אחר.
+
+### פוסטי טיול
+https://example.com/posts
+פוסטי טיול אישיים ואמיתיים מהשטח: כפרים נסתרים, שווקים מקומיים ורגעים שלא מופיעים בגוגל. גלה tourist places in near me שרק מקומיים מכירים.
+
+### מסלולים וסיורים מודרכים
+https://example.com/itineraries
+מסלולי טיול מותאמים אישית לאזור איסאן ולאוס, עם ליווי מקצועי ואישי. לא סיורים המוניים — חוויות עמוקות. חברות תיירות רגילות לא מציעות את זה. הצטרף עכשיו.
+
+### אודות
+https://example.com/about
+הכר את האדם שמאחורי תאילנד בקצב אחר — נוסע, מדריך ואוהב תרבות שהחליט לשתף את תאילנד האמיתית עם העולם. כאן מתחיל המסע שלך אל travel and tourism websites שונים.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על תאילנד, לאוס או מסלול מותאם אישית? כתוב לנו עכשיו ותקבל מענה אנושי ואמיתי. travel and tourism companies לא ידברו איתך ככה — אנחנו כן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תאילנד בקצב אחר
+A personal travel blog and guided tour service called 'Thailand at a Different Pace', focused on presenting Thailand and Laos in a calm, authentic, and unhurried way. The site is built around the owner's personal travel posts, curated itineraries, and honest recommendations. It specializes in off-the-beaten-path experiences in the Isan region of Thailand and Laos, and includes a community space for visitor comments. The brand's identity is relaxed, personal, and experiential — the antithesis of rushed tourist culture.
+
+## Services/Products
+- פוסטים אישיים על תאילנד
+- מסלולי טיול
+- המלצות טיול
+- טיולים מודרכים באיזור איסאן
+- טיולים מודרכים בלאוס
+- תגובות גולשים
+- מידע אישי על המדריך
+
+## Target Audience
+- טיילים המחפשים חוויה רגועה ואותנטית בתאילנד ולאוס
+- מטיילים המחפשים חוויה רגועה ואותנטית
+- מטיילים המחפשים חוויה תרבותית מעמיקה
+- מטיילים ידידותיים לסביבה
+
+## Industry
+Travel & Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
